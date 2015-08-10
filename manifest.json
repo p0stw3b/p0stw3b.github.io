@@ -6,7 +6,7 @@
     "sizes": "192x192",
     "type": "image/png"
     }],
-    "start_url": "/index.html",
+    "start_url": "/app.html",
     "display": "standalone",
     "gcm_sender_id": "agile-fort-103323",
     "gcm_user_visible_only": true,
